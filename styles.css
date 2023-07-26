@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 85px;
+}
+
+.steak-img,
+.potato-img,
+.old-fashioned-img {
+    height: 300px;
+    width: auto;
+    margin: 75px;
+    
+}
+
+
+.img {
+    text-align: center;
+}
+
